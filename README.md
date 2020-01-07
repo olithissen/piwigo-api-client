@@ -4,7 +4,7 @@
 
 The [Piwigo photo management server](https://piwigo.org/) comes with an RPC-like API. 
 I want a quick way to triage and rate my photos which is kind of cumbersome with the otherwise nice web UI.
-Since the only Java implementation is an integral part of the rudimentary Piwigo Android App I decieded to build my own.
+Since the only Java implementation is an integral part of the rudimentary Piwigo Android App I decided to build my own.
 
 ## How?
 
